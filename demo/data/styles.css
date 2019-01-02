@@ -51,7 +51,36 @@
 .paragraph {
   text-align:left;
 }
+.connector {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#999999;
+}
 .box_1 {
 }
 .table_cell {
+}
+.image {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.flow_shape {
+}
+.icon {
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.line {
+}
+.arrow {
+}
+.radio_button {
+  text-align:left;
+}
+.box_2 {
 }
