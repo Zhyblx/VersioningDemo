@@ -215,6 +215,9 @@
   top:30px;
   width:137px;
   height:30px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
 }
 #u7_text {
   border-width:0px;
@@ -297,9 +300,8 @@
 #u10_text {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
+  left:2px;
+  top:8px;
+  width:133px;
   word-wrap:break-word;
 }
