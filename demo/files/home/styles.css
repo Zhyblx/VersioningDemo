@@ -276,9 +276,10 @@
 #u9_text {
   border-width:0px;
   position:absolute;
-  left:2px;
-  top:6px;
-  width:133px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u10_img {
@@ -300,8 +301,9 @@
 #u10_text {
   border-width:0px;
   position:absolute;
-  left:2px;
-  top:8px;
-  width:133px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
